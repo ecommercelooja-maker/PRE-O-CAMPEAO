@@ -19,3 +19,7 @@ O rodapé pronto está em [`rodape.html`](rodape.html) e exibe:
 ARCO INTELIGENCIA & TECNOLOGIA LTDA
 Fantasia: ARCO CONSULTORIA · CNPJ: 19.983.756/0001-26
 ```
+
+## Google Tag Manager
+
+A tag do GTM (`GTM-KF6VWXPF`) está no `<head>` de [`index.html`](index.html).
